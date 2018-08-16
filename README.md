@@ -8,5 +8,5 @@
 ## How to Run:
 * Open index.html in the browser of your choice. It may take some time to completely load as additional network requests are made. Once loaded, test results should be displayed at the bottom of the page.
 
-* The online version can be seen at 
+* The online version can be seen at: (https://cetoute.github.io/feed-reader-testing1/).
 [Download] or [Clone] the Repository:(https://github.com/Cetoute/feed-reader-testing.git).
